@@ -1,6 +1,5 @@
 function getShippingCost(country) {
   let price;
-  let message;
   switch (country) {
     case "Australia":
       price = 170;
